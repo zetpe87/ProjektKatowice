@@ -103,7 +103,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: black;
 		overflow-x: hidden;
 	}
 
@@ -157,13 +157,13 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #ffffff;
-		color: #000000;
+		background-color: black;
+		color: yellow;
 	}
 
 	body, input, select, textarea {
-		color: #000000;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		color: #cf2727;
+		font-family: 'Courier New', Courier, sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
 		letter-spacing: 0.0375em;
